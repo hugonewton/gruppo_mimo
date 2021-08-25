@@ -1,3 +1,18 @@
+/* =========== FONT FACE ============ */
+
+
+@font-face {
+    font-family: 'druk';
+    src: url('https://v2.gruppomimo.com/wp-content/uploads/2021/08/Druk-WideMedium.eot');
+    src: url('Druk-WideMedium.eot?#iefix') format('embedded-opentype'),
+        url('https://v2.gruppomimo.com/wp-content/uploads/2021/08/Druk-WideMedium.woff2') format('woff2'),
+        url('https://v2.gruppomimo.com/wp-content/uploads/2021/08/Druk-WideMedium.woff') format('woff'),
+        url('https://v2.gruppomimo.com/wp-content/uploads/2021/08/Druk-WideMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
     background-color: #fffbf5;
     height: 100%;
@@ -6,10 +21,6 @@ body {
 
 #zwgth h1 {
     padding-top: 0;
-    font-family: var( --e-global-typography-ede6ba9-font-family ), Sans-serif;
+    font-family: "druk", Sans-serif;
     color: #e30813;
-}
-
-.container-fluid {
-
 }
