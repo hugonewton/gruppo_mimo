@@ -6,6 +6,12 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'druk';
+    src: url('http://v2.gruppomimo.com/wp-content/uploads/2021/08/Druk-WideMedium.woff2') format('woff2'), url('http://v2.gruppomimo.com/wp-content/uploads/2021/08/Druk-WideMedium.woff') format('woff');
+    font-style: normal;
+}
+
 body {
     background-color: #fffbf5;
     height: 100%;
