@@ -6,6 +6,10 @@ body {
 
 #zwgth h1 {
     padding-top: 0;
-    font-family: font-family: var( --e-global-typography-ede6ba9-font-family ), Sans-serif;
+    font-family: var( --e-global-typography-ede6ba9-font-family ), Sans-serif;
     color: var( --e-global-color-e6494a7 );
+}
+
+.container-fluid {
+
 }
